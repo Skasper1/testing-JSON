@@ -1,0 +1,424 @@
+[
+  {
+    "videoId": "qSfoc8JQbxKZd2RciWv3",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1737512926,
+      "_nanoseconds": 614000000
+    },
+    "dateUploaded": "2025-01-22T02:28:33.861Z",
+    "title": "test",
+    "description": "testing",
+    "videoDuration": 21,
+    "thumbnailUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1737512908355-spain.png",
+    "videoUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-videos/1737512905099-ballers.MP4",
+    "tags": [
+      "football",
+      "epl"
+    ],
+    "Stats": [
+      {
+        "videoId": "qSfoc8JQbxKZd2RciWv3",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "videoId": "TiUq7p3ipfAXw1JWgf8z",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1735349758,
+      "_nanoseconds": 678000000
+    },
+    "dateUploaded": "2024-12-28T01:35:10.578Z",
+    "title": "video2",
+    "description": "dfdfsdfsddfsfsd",
+    "videoDuration": 21,
+    "thumbnailUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1735349704954-Chelsea_FC.png",
+    "videoUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-videos/1735349701855-ballers.MP4",
+    "tags": [
+      "football",
+      "epl"
+    ],
+    "Stats": [
+      {
+        "videoId": "TiUq7p3ipfAXw1JWgf8z",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "videoId": "WcvEVJBu8DvHtWTcNtHS",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1735319004,
+      "_nanoseconds": 611000000
+    },
+    "dateUploaded": "2024-12-27T17:03:11.919Z",
+    "title": "Test",
+    "description": "hgghfghfghfgh",
+    "videoDuration": 21,
+    "thumbnailUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1735318986433-Chelsea_FC.png",
+    "videoUrl": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-videos/1735318983499-ballers.MP4",
+    "tags": [
+      "epl"
+    ],
+    "Stats": [
+      {
+        "videoId": "WcvEVJBu8DvHtWTcNtHS",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": "FXuVSAK4Qbog7OmB4wsX",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1738802130,
+      "_nanoseconds": 621000000
+    },
+    "dateUploaded": "2025-02-06T00:34:13.908Z",
+    "postType": "image",
+    "postMessage": "qwewqrqwrqwrqwrwdfdff 2/5/2025",
+    "postImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-posts/1738802048399-post_pic.jpg",
+    "tags": [
+      "qdqweqwed"
+    ],
+    "Stats": [
+      {
+        "postId": "FXuVSAK4Qbog7OmB4wsX",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": "CevKxPLkqvaIcMzDTYbD",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1737504812,
+      "_nanoseconds": 364000000
+    },
+    "dateUploaded": "2024-12-28T01:37:04.597Z",
+    "postType": "text",
+    "postMessage": "rtertetertert",
+    "postImage": "",
+    "tags": [
+      "chelsea"
+    ],
+    "Stats": [
+      {
+        "postId": "CevKxPLkqvaIcMzDTYbD",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": "93uifkIIeTkB35ki9VES",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1735361832,
+      "_nanoseconds": 218000000
+    },
+    "dateUploaded": "2024-12-28T04:56:12.482Z",
+    "postType": "image",
+    "postMessage": "ftdftyrtyrtyrtyrt",
+    "postImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-posts/1735361766798-pl-football.jpg",
+    "tags": [
+      "football",
+      "epl"
+    ],
+    "Stats": [
+      {
+        "postId": "93uifkIIeTkB35ki9VES",
+        "views": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "comments": 0,
+        "shares": 0,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": "eHE5WPwgcI4MIDhoGx4g",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1735361522,
+      "_nanoseconds": 794000000
+    },
+    "dateUploaded": "2024-12-28T01:36:41.612Z",
+    "postType": "image",
+    "postMessage": "dffvxdsfsdf",
+    "postImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-posts/1735349796161-Chelsea_FC.png",
+    "tags": [
+      "chelsea"
+    ],
+    "Stats": [
+      {
+        "postId": "eHE5WPwgcI4MIDhoGx4g",
+        "likes": 0,
+        "dislikes": 0,
+        "shares": 0,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "views": 155323232,
+        "comments": 525554
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": "eHE5WPwgcI4MIDhoGx4g",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1735357690,
+      "_nanoseconds": 599000000
+    },
+    "dateUploaded": "2024-12-28T01:36:41.612Z",
+    "postType": "image",
+    "postMessage": "dffvxdsfsdf",
+    "postImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-posts/1735349796161-Chelsea_FC.png",
+    "tags": [
+      "chelsea"
+    ],
+    "Stats": [
+      {
+        "postId": "eHE5WPwgcI4MIDhoGx4g",
+        "likes": 0,
+        "dislikes": 0,
+        "shares": 0,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "views": 155323232,
+        "comments": 525554
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  }
+]
