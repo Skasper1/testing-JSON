@@ -20,11 +20,11 @@
     "Stats": [
       {
         "videoId": "qSfoc8JQbxKZd2RciWv3",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 1000,
+        "likes": 100,
+        "dislikes": 50,
+        "comments": 20,
+        "shares": 40
       }
     ],
     "Creator": [
@@ -74,11 +74,11 @@
     "Stats": [
       {
         "videoId": "TiUq7p3ipfAXw1JWgf8z",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 2000000,
+        "likes": 1000,
+        "dislikes": 3000,
+        "comments": 230,
+        "shares": 456
       }
     ],
     "Creator": [
@@ -127,11 +127,11 @@
     "Stats": [
       {
         "videoId": "WcvEVJBu8DvHtWTcNtHS",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0
+        "views": 4560,
+        "likes": 456,
+        "dislikes": 1,
+        "comments": 100,
+        "shares": 330
       }
     ],
     "Creator": [
@@ -178,11 +178,11 @@
     "Stats": [
       {
         "postId": "FXuVSAK4Qbog7OmB4wsX",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "views": 8000000,
+        "likes": 45510,
+        "dislikes": 4520,
+        "comments": 250,
+        "shares": 1000,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -230,11 +230,11 @@
     "Stats": [
       {
         "postId": "CevKxPLkqvaIcMzDTYbD",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "views": 1000,
+        "likes": 56,
+        "dislikes": 150,
+        "comments": 20,
+        "shares": 30,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -283,11 +283,11 @@
     "Stats": [
       {
         "postId": "93uifkIIeTkB35ki9VES",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "views": 56640,
+        "likes": 10,
+        "dislikes": 4780,
+        "comments": 20,
+        "shares": 7550,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -387,63 +387,11 @@
     "Stats": [
       {
         "postId": "eHE5WPwgcI4MIDhoGx4g",
-        "likes": 0,
-        "dislikes": 0,
-        "shares": 0,
-        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "likes": 454655,
+        "dislikes": 455,
+        "shares": 445,
         "views": 155323232,
-        "comments": 525554
-      }
-    ],
-    "Creator": [
-      {
-        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Chelsea",
-        "organizationName": "Chelsea",
-        "country": "United Kingdom",
-        "city": "London",
-        "countryPhoneCode": "44",
-        "phoneNumber": "(256) 689-4511",
-        "accountType": "organization",
-        "createdAt": {
-          "_seconds": 1735262166,
-          "_nanoseconds": 494000000
-        },
-        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
-        "contentCategorySelections": [
-          "Sports",
-          "Football",
-          "England",
-          "Premier League",
-          "Chelsea"
-        ]
-      }
-    ]
-  },
-   {
-    "postId": "CevKxPLkqvaIcMzDTYbD",
-    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-    "channel": "Chelsea",
-    "datePublished": {
-      "_seconds": 1737504812,
-      "_nanoseconds": 364000000
-    },
-    "dateUploaded": "2024-12-28T01:37:04.597Z",
-    "postType": "text",
-    "postMessage": "rtertetertert",
-    "postImage": "",
-    "tags": [
-      "chelsea"
-    ],
-    "Stats": [
-      {
-        "postId": "CevKxPLkqvaIcMzDTYbD",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "comments": 525554,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -491,11 +439,63 @@
     "Stats": [
       {
         "postId": "CevKxPLkqvaIcMzDTYbD",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "views": 45620,
+        "likes": 4790,
+        "dislikes": 45620,
+        "comments": 4766,
+        "shares": 45620,
+        "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
+      }
+    ],
+    "Creator": [
+      {
+        "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+        "email": "chelsea@gmail.com",
+        "username": "@Chelsea",
+        "organizationName": "Chelsea",
+        "country": "United Kingdom",
+        "city": "London",
+        "countryPhoneCode": "44",
+        "phoneNumber": "(256) 689-4511",
+        "accountType": "organization",
+        "createdAt": {
+          "_seconds": 1735262166,
+          "_nanoseconds": 494000000
+        },
+        "profilePicture": "https://storage.googleapis.com/bimiza-creators.appspot.com/creators/YUx2HS88JCMTdn0YFh3kogXaOBg1/profile/Chelsea_FC.png?GoogleAccessId=firebase-adminsdk-9bxn0%40bimiza-creators.iam.gserviceaccount.com&Expires=16730344800&Signature=glwlCDyj4AQXOBBpDyOrcXV0Ad67hgpum7OnN8kEKDdDT3H%2FBfZS%2FNd0aPSYZA169MRFCKZSarUL1yENATDQsoMA%2B7QYfXhvftlz42sIx5wV%2Fc8GN84wQxgZ8FMwEvgNpFs3z5CLXAkzNsBcc3X5g6Hx4wl3dGELBhzD2ODc8X%2BGGu1KJ3CtbF8HQaA7Otz92bTEY%2F5d4cOBOdFostFLgTOdyX3tdS1z5%2Bdvm7HkWdHFW9lWYbodfmobzinI0rqrN1L8N8AWUxOdmybzwVScezlZRf533t58ie%2BLJ9ZFcQDEDhjLHSh0o4ITfLeZOtuIS3XECho1YWr0AVsy7LJtJQ%3D%3D",
+        "contentCategorySelections": [
+          "Sports",
+          "Football",
+          "England",
+          "Premier League",
+          "Chelsea"
+        ]
+      }
+    ]
+  },
+   {
+    "postId": "CevKxPLkqvaIcMzDTYbD",
+    "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
+    "channel": "Chelsea",
+    "datePublished": {
+      "_seconds": 1737504812,
+      "_nanoseconds": 364000000
+    },
+    "dateUploaded": "2024-12-28T01:37:04.597Z",
+    "postType": "text",
+    "postMessage": "rtertetertert",
+    "postImage": "",
+    "tags": [
+      "chelsea"
+    ],
+    "Stats": [
+      {
+        "postId": "CevKxPLkqvaIcMzDTYbD",
+        "views": 567890,
+        "likes": 45620,
+        "dislikes": 4450,
+        "comments": 4450,
+        "shares": 4770,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -543,11 +543,11 @@
     "Stats": [
       {
         "postId": "CevKxPLkqvaIcMzDTYbD",
-        "views": 0,
-        "likes": 0,
-        "dislikes": 0,
-        "comments": 0,
-        "shares": 0,
+        "views": 56620,
+        "likes": 4500,
+        "dislikes": 450,
+        "comments": 50,
+        "shares": 5,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
