@@ -528,15 +528,15 @@
    {
     "postId": "CevKxPLkqvaIcMzDTYbD",
     "user": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-    "channel": "Arsenal",
+    "channel": "Manchester United",
     "datePublished": {
       "_seconds": 1737504812,
       "_nanoseconds": 364000000
     },
     "dateUploaded": "2025-02-28T01:37:04.597Z",
-    "postType": "Video",
+    "postType": "video",
     "postMessage": "Hello World!!",
-    "videoUrl": "https://testbucket2324242.s3.us-east-2.amazonaws.com/bale.MP4",
+    "VideoUrl": "https://testbucket2324242.s3.us-east-2.amazonaws.com/bale.MP4",
     "tags": [
       "chelsea"
     ],
@@ -554,9 +554,9 @@
     "Creator": [
       {
         "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Chelsea",
-        "organizationName": "Chelsea",
+        "email": "ManchesterUnited@gmail.com",
+        "username": "@Manchester United",
+        "organizationName": "Manchester United",
         "country": "United Kingdom",
         "city": "London",
         "countryPhoneCode": "44",
