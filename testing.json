@@ -24,6 +24,7 @@
         "likes": 100,
         "dislikes": 50,
         "comments": 20,
+        "Bookmarks": 15400,
         "shares": 40
       }
     ],
@@ -78,6 +79,7 @@
         "likes": 1000,
         "dislikes": 3000,
         "comments": 230,
+        "Bookmarks": 0,
         "shares": 456
       }
     ],
@@ -131,6 +133,7 @@
         "likes": 456,
         "dislikes": 1,
         "comments": 100,
+        "Bookmarks":  45460,
         "shares": 330
       }
     ],
@@ -183,6 +186,7 @@
         "dislikes": 4520,
         "comments": 250,
         "shares": 1000,
+        "Bookmarks": 43430,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -235,6 +239,7 @@
         "dislikes": 150,
         "comments": 20,
         "shares": 30,
+        "Bookmarks": 106765,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -288,6 +293,7 @@
         "dislikes": 4780,
         "comments": 20,
         "shares": 7550,
+        "Bookmarks": 1564,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -340,6 +346,7 @@
         "shares": 0,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
         "views": 155323232,
+        "Bookmarks": 10,
         "comments": 525554
       }
     ],
@@ -392,6 +399,7 @@
         "shares": 445,
         "views": 155323232,
         "comments": 525554,
+        "Bookmarks": 100230,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -444,6 +452,7 @@
         "dislikes": 45620,
         "comments": 4766,
         "shares": 45620,
+        "Bookmarks": 11000,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -496,6 +505,7 @@
         "dislikes": 4450,
         "comments": 4450,
         "shares": 4770,
+        "Bookmarks": 1000,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
@@ -548,6 +558,7 @@
         "dislikes": 450,
         "comments": 50,
         "shares": 5,
+        "Bookmarks": 10000,
         "creatorId": "YUx2HS88JCMTdn0YFh3kogXaOBg1"
       }
     ],
