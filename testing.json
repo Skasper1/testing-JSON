@@ -342,9 +342,9 @@
     "videoId":"Elephant's Dream",
     "thumbnailImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1737512908355-spain.png",
     "postMessage": "Teamwork makes the dream work; every pass, every play counts!",
-    "VideoUrl": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream_1080p.mp4",
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream_720p.mp4",
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream_480p.mp4"],
+    "VideoUrl": ["https://filesamples.com/samples/video/mp4/sample_960x400_ocean_with_audio.mp4",
+      "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
+      "https://file-examples.com/storage/fe9b0b8b5f7a4e6c9d9a4c3/2017/04/file_example_MP4_480_1_5MG.mp4"],
     "tags": [
       "football",
       "epl"
@@ -400,9 +400,9 @@
     "videoId":"Big Buck Bunny ",
     "thumbnailImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1737512908355-spain.png",
     "postMessage": "Teamwork makes the dream work; every pass, every play counts!",
-    "VideoUrl": ["https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny_1080p.mp4",
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny_720p.mp4",
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny_480p.mp4"],
+    "VideoUrl": ["https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4",
+      "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/480/Big_Buck_Bunny_480_10s_1MB.mp4"],
     "tags": [
       "football",
       "epl"
