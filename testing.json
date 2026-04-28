@@ -285,8 +285,8 @@
     "thumbnailImage": "https://bimiza-assets.s3.us-east-2.amazonaws.com/user-thumbnails/1737512908355-spain.png",
     "postMessage": "Teamwork makes the dream work; every pass, every play counts!",
     "VideoUrl": ["https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4",
-      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4",
-      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4"],
+      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_720p.mp4",
+      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_480p.mp4"],
     "tags": [
       "football",
       "epl"
@@ -554,8 +554,9 @@
     "postMessage": "Hello World!!",
      "thumbnailImage": "https://wallpaperaccess.com/full/2111294.jpg",
      "videoId":"Video2",
-    "VideoUrl": ["https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4","https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4",
-      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4"],
+    "VideoUrl": ["https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_1080p.mp4",
+      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_720p.mp4",
+      "https://d1tyiv36byw9uk.cloudfront.net/assets/ecbf0c13-b943-49d6-88b8-5163b2b67cda/mp4/2e5cb598-cc1b-4f36-9c1d-f6bff45723a3_480p.mp4"],
     "tags": [
       "chelsea"
     ],
