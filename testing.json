@@ -33,9 +33,9 @@
     "Creator": [
       {
         "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Chelsea",
-        "organizationName": "Chelsea",
+        "email": "Arsenal@gmail.com",
+        "username": "@Arsenal",
+        "organizationName": "Arsenal",
         "country": "United Kingdom",
         "city": "London",
         "countryPhoneCode": "44",
@@ -142,11 +142,11 @@
     "Creator": [
       {
         "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Chelsea",
-        "organizationName": "Chelsea",
+        "email": "ManchesterUnited@gmail.com",
+        "username": "@ManU",
+        "organizationName": "Manchester United",
         "country": "United Kingdom",
-        "city": "London",
+        "city": "Manchester",
         "countryPhoneCode": "44",
         "phoneNumber": "(256) 689-4511",
         "accountType": "organization",
@@ -195,11 +195,11 @@
     "Creator": [
       {
         "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Arsenal",
-        "organizationName": "Arsenal",
+        "email": "ManchesterCity@gmail.com",
+        "username": "@ManCity",
+        "organizationName": "Manchester City",
         "country": "United Kingdom",
-        "city": "London",
+        "city": "Manchester",
         "countryPhoneCode": "44",
         "phoneNumber": "(256) 689-4511",
         "accountType": "organization",
@@ -248,11 +248,11 @@
     "Creator": [
       {
         "userId": "YUx2HS88JCMTdn0YFh3kogXaOBg1",
-        "email": "chelsea@gmail.com",
-        "username": "@Chelsea",
-        "organizationName": "Chelsea",
-        "country": "United Kingdom",
-        "city": "London",
+        "email": "RealMadrid@gmail.com",
+        "username": "@RealMadrid",
+        "organizationName": "Real Madrid",
+        "country": "Spain",
+        "city": "Madrid",
         "countryPhoneCode": "44",
         "phoneNumber": "(256) 689-4511",
         "accountType": "organization",
